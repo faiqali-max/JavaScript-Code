@@ -6,7 +6,7 @@ let body = document.querySelector(".body");
 let initial_background_color=`linear-gradient(90deg, #113e41 0%, #111215 100%)`;
 
 //Initial By Default State 
-button.textContent = "Dark";
+button.textContent = "Light";
 body.style.background = initial_background_color;
 button.style.background = initial_background_color;
 button.style.color = "cyan";
@@ -68,15 +68,15 @@ let light_text=`rgb(${light_red_one},${light_green_one},${light_blue_one})`;
 
 let dark_text=`rgb(${dark_red_one},${dark_green_one},${dark_blue_one})`;
 
-    if (button.textContent === "Light") {
-        button.textContent = "Dark";
+    if (button.textContent === "Dark") {
+        button.textContent = "LIght";
         body.style.background = light_color;
         button.style.background = light_color;
         button.style.color = dark_text;
         button.style.borderColor = dark_text;
     }
-    else if (button.textContent === "Dark") {
-        button.textContent = "Light";
+    else if (button.textContent === "Light") {
+        button.textContent = "Dark";
         body.style.background = dark_color;
         button.style.background = dark_color;
         button.style.color = light_text;
