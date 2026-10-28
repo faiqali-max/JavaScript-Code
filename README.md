@@ -1,6 +1,23 @@
-<h1 style="text-align:center; color:#821eez;"> UI LIBRARY BY FAIQ ALI</h1>
-<p style="text-align:center; color:#821eez;">Here you'll find the components made in just HTML, CSS & JS, so even a beginner can use.</p
-<p style="text-align:center; color:#821eez;">In the folder <span style="color:rgb(150,90,209);">Toggle</span> you'll find two folders one <span style="color:rgb(150,90,209);">advancetoggle</span> and the second one <span style="color:rgb(150,90,209);">normal toggle</span>, the <span style="color:rgb(150,90,209);">advance toggle</span> changes the color to the random linear gradient RGB colors both for light theme and the dark theme and when refreshed comes back to its original color & the <span style="color:rgb(150,90,209);">normal toggle</span> changes the color into a dark or light version of a same rgb color means dark or light ambiance.</p>
-<h2 style="text-align:center; color:cyan;">Thanks For Visiting</h2>
-<h3 style="text-align:center; color:cyan;">Show Respect By Liking This Repo</h3>
+<h1 align="center" style="color:#821eeb;">UI LIBRARY BY FAIQ ALI</h1>
 
+<p align="center" style="color:#821eeb;">
+  Here you'll find components built using just HTML, CSS & JS, making them easy for beginners to use.
+</p>
+
+<p align="center" style="color:#821eeb;">
+  In the <span style="color:rgb(150,90,209);">Toggle</span> folder, you will find two directories:
+</p>
+
+<ul>
+  <li>
+    <strong style="color:rgb(150,90,209);">advancetoggle:</strong> 
+    Changes the background to a random linear gradient RGB colors for both light and dark themes when click the button. When refreshed, it resets to its original color.
+  </li>
+  <li>
+    <strong style="color:rgb(150,90,209);">normal toggle:</strong> 
+    Toggles between dark and light versions of the same RGB color ambiance.
+  </li>
+</ul>
+
+<h2 align="center" style="color:cyan;">Thanks For Visiting</h2>
+<h3 align="center" style="color:cyan;">Show respect by starring/liking this repository!</h3>
