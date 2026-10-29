@@ -20,4 +20,4 @@
 </ul>
 
 <h2 align="center" style="color:cyan;">Thanks For Visiting</h2>
-<h3 align="center" style="color:cyan;">Show respect by starring/liking this repository!</h3>
+<h3 align="center" style="color:cyan;">Show some respect by starring/liking this repository!</h3>
