@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>button</title>
+</head>
+<body>
+    <div> 
+        <button class="button" >Click Me</button>
+    </div>
+</body>
+<style>
+    div{
+        margin:300px;
+    }
+    .button{
+        text-align: center;
+        width:100px;
+        height:75px;
+        font-weight: bold;
+        font-family: sans-serif;
+        border:none;
+        border-radius: 15px;
+        animation: pulse 10s ease-in-out infinite alternate;
+    }
+    @keyframes pulse {
+        0%{
+            transform: scale(1);
+            color:white;
+            background:linear-gradient(110deg, #144f53 , #214cce, #21a6ce, #0feaf1 );
+
+        }
+        100%{
+            transform:scale(1.5);
+            background:linear-gradient(70deg,#0feaf1 , #21a6ce, #214cce, #144f53 );
+            color:white;
+        }
+
+    }
+</style>
+</html>
