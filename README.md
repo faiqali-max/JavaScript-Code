@@ -18,7 +18,9 @@
     Toggles between dark and light versions of the same RGB color ambiance.
   </li>
 </ul>
+
 ## CLONE THE REPOSITORY
+
 ```bash
 git clone https://github.com/faiqali-max/JavaScript-Code.git
 
